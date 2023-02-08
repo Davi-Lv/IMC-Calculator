@@ -1,4 +1,4 @@
-## IMC-Calculator
+## Calculadora indice massa corporal (IMC)
 
 IMC Calculator é um projeto simples escrito em JavaScript, 
 criado com o objetivo de treinar e aprimorar conhecimentos na 
